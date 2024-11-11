@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T13:36:52 IST" name="Default suite" finished-at="2024-11-11T13:36:55 IST" duration-ms="3227">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T13:36:52 IST" name="Default test" finished-at="2024-11-11T13:36:55 IST" duration-ms="3227">
+      <class name="deivaint.todos.standalonetest2">
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:deivaint.todos.standalonetest2@2d52216b]" started-at="2024-11-11T13:36:52 IST" name="launchapplication" finished-at="2024-11-11T13:36:54 IST" duration-ms="2465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="standtest()[pri:0, instance:deivaint.todos.standalonetest2@2d52216b]" started-at="2024-11-11T13:36:54 IST" name="standtest" finished-at="2024-11-11T13:36:55 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- standtest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:deivaint.todos.standalonetest2@2d52216b]" started-at="2024-11-11T13:36:55 IST" name="teardown" finished-at="2024-11-11T13:36:55 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- deivaint.todos.standalonetest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
